@@ -13,7 +13,7 @@ Este é um exemplo prático que utiliza Angular e PrimeNG para abrir imagens do 
 
 Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) na versão 16.2.8. Certifique-se de ter o Angular CLI e o Node.js instalados em seu ambiente de desenvolvimento.
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/angular-primeng-image-popup-demo.git`
+1. Clone este repositório: `git clone [https://github.com/seu-usuario/angular-primeng-image-popup-demo.git](https://github.com/flavioleal/angular-primeng-p-editor-open-image-new-tab.git)`
 2. Acesse o diretório do projeto: `cd angular-primeng-image-popup-demo`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor de desenvolvimento: `ng serve`
