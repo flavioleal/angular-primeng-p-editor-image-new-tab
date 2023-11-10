@@ -1,4 +1,4 @@
-# Angular PrimeNG Image Popup Demo
+# Angular PrimeNG p-editor open image new tab
 
 Este é um exemplo prático que utiliza Angular e PrimeNG para abrir imagens do componente p-editor em uma nova aba.
 
