@@ -1,27 +1,33 @@
-# AngularPrimengImagePopupDemo
+# Angular PrimeNG Image Popup Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
+Este é um exemplo prático que utiliza Angular e PrimeNG para abrir imagens do componente p-editor em uma nova aba.
 
-## Development server
+# Tecnologias:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Angular](https://angular.io/)
+- [Angular CLI](https://github.com/angular/angular-cli) (v16.2.8)
+- [PrimeNG](https://www.primefaces.org/primeng) (v16.4.2)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
 
-## Build
+Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) na versão 16.2.8. Certifique-se de ter o Angular CLI e o Node.js instalados em seu ambiente de desenvolvimento.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone este repositório: `git clone https://github.com/seu-usuario/angular-primeng-image-popup-demo.git`
+2. Acesse o diretório do projeto: `cd angular-primeng-image-popup-demo`
+3. Instale as dependências: `npm install`
+4. Inicie o servidor de desenvolvimento: `ng serve`
+5. Abra o navegador e acesse `http://localhost:4200/`
 
-## Running unit tests
+## Funcionalidades
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- O exemplo utiliza o componente `p-editor` do PrimeNG.
+- As imagens do editor podem ser abertas em uma nova aba ao clicar nelas.
 
-## Running end-to-end tests
+## Como Funciona
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+A lógica principal está no método `openImageInNewTab` em `app.component.ts`. Este método é acionado quando uma imagem no `p-editor` é clicada.
 
-## Further help
+## Contribuição
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.

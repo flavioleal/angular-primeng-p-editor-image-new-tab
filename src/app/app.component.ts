@@ -23,9 +23,6 @@ export class AppComponent implements OnInit {
     )
   }
 
-
-
-
   openImageInNewTab(event: any) {
     const target = event.target || event.srcElement;
     if (target.tagName === 'IMG') {
